@@ -23,7 +23,7 @@ This guide explains how to deploy a **reliable Tempo RPC node** using **snapshot
 * 💾 **Storage reality check**
 
   * Docs mention **100GB minimum**
-  * Real-world usage requires **500GB+ NVMe**
+  * Real-world usage requires **1TB NVMe**
   * Snapshots alone extract to **300GB+**
 
 ---
